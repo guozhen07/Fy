@@ -1,0 +1,31 @@
+{
+  "code": 0,
+  "data": [{
+    "id": 1001,
+    "type": 1,
+    "title": "项目",
+    "selected": false,
+    "list": [
+      {
+        "id": 1002,
+        "type": 2,
+        "title": "文件夹",
+        "selected": false,
+        "list": [
+          {
+            "id": 1003,
+            "type": 3,
+            "title": "宠物爱达",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "id": 1004,
+        "type": 3,
+        "title": "创伤急救爱达",
+        "selected": false
+      }
+    ]
+  }]
+}

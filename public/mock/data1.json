@@ -1,0 +1,37 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "nodeLabel": "初始评估",
+      "nodeAttr": {
+        "title": "初始评估",
+        "_onto": "创伤急救"
+      },
+      "linkAttr": {
+        "type": "_has_a"
+      },
+      "floor": 0,
+      "line": 1
+    },
+    {
+      "nodeLabel": "A气道",
+      "nodeAttr": {
+        "title": "A气道",
+        "index": "1",
+        "nodeType": "1",
+        "_onto": "创伤急救，初始评估"
+      },
+      "linkAttr": {
+        "type": "_has_a"
+      },
+      "message": {
+        "level": "error",
+        "line": 2,
+        "column": 25,
+        "text": "啦啦啦，出错啦！"
+      },
+      "floor": 1,
+      "line": 2
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "nodeLabel": "耳螨",
+      "nodeAttr": {
+        "title": "耳螨",
+        "_onto": "宠物问诊.疾病.猫疾病"
+      },
+      "linkAttr": {
+        "type": "_has_a"
+      },
+      "floor": 0,
+      "line": 1
+    },
+    {
+      "nodeLabel": "猫疾病",
+      "nodeAttr": {
+        "title": "猫疾病",
+        "_onto": "宠物问诊.疾病.猫疾病"
+      },
+      "linkAttr": {
+        "type": "科属"
+      },
+      "message": {
+        "level": "error",
+        "line": 2,
+        "column": 25,
+        "text": "啦啦啦，出错啦！"
+      },
+      "floor": 1,
+      "line": 2
+    }
+  ]
+}
